@@ -11,7 +11,7 @@ Pillow==7.2.0 <br>
 
 ### Instalando <br>
 Abra o terminal e digite: <br>
-git clone
+git clone https://github.com/laryike/Projeto-ecommerce-django.git
 
 ### Migrar o banco de dados com os comandos: <br>
 python manage.py makemigrations <br>
