@@ -25,7 +25,16 @@ python manage.py runserver <br>
 E então abrir o link http://127.0.0.1:8000 em seu browser
 
 
+## ScreenShot 
+### Loja
+![](img/store.JPG)
 
+### Carrinho
+![](img/cart.JPG)
+
+### Efetuar pagamento
+![](img/checkout.JPG)
+![](img/paypal.JPG)
 
 
 
