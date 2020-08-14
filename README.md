@@ -25,7 +25,7 @@ python manage.py runserver <br>
 E então abrir o link http://127.0.0.1:8000 em seu browser
 
 
-## ScreenShot 
+## Imagens das telas 
 ### Loja
 ![](img/store.JPG)
 
